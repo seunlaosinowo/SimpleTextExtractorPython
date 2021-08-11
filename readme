@@ -1,0 +1,3 @@
+This is a simple text extractor system that gets PPTX files from the server, extracts the content in a structred way and send to php to upload to MYSQL database.
+
+this is done using the python-pptx library
